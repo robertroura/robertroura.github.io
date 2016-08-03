@@ -273,7 +273,7 @@ footer {
   text-align: center;
   overflow: hidden; /*height problem fixed*/
 }
-.wrapper {
+footer .wrapper {
   margin: 3em auto 3em auto;
 }
 footer p {
