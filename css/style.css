@@ -274,7 +274,7 @@ footer {
   overflow: hidden; /*height problem fixed*/
 }
 footer div.fb-share-button {
-  margin: 3em auto .5em auto;
+  margin: 3em auto 1em auto;
 }
 footer p {
   font-size: 14px;
