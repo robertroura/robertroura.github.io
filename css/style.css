@@ -273,13 +273,13 @@ footer {
   text-align: center;
   overflow: hidden; /*height problem fixed*/
 }
-footer div.fb-share-button {
-  margin: 3em auto 1em auto;
+.wrapper {
+  margin: 3em auto 3em auto;
 }
 footer p {
   font-size: 14px;
   line-height: 1.4em;
-  margin: .5em auto .5em auto;
+  margin: 1em auto 1em auto;
 }
 footer a {
   position: relative;
@@ -311,7 +311,6 @@ footer img {
   width: 28%;
   max-width: 120px;
   opacity: .1;
-  margin: .5em auto 3em auto;
 }
 @media only screen and (min-width: 1024px) {
   footer p {
